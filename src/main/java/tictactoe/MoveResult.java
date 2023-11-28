@@ -1,4 +1,4 @@
-package org.example;
+package tictactoe;
 
 class MoveResult {
     int score;
@@ -9,3 +9,5 @@ class MoveResult {
         this.score = score;
     }
 }
+
+

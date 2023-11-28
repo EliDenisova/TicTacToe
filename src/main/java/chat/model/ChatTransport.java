@@ -1,4 +1,4 @@
-package org.example;
+package chat.model;
 
 import java.util.List;
 
@@ -8,4 +8,3 @@ public interface ChatTransport {
 
     void closeResource();
 }
-

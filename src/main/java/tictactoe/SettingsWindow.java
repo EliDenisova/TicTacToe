@@ -1,4 +1,4 @@
-package org.example;
+package tictactoe;
 
 import javax.swing.*;
 import java.awt.*;
@@ -66,3 +66,4 @@ public class SettingsWindow extends JFrame {
         add(settings);
     }
 }
+

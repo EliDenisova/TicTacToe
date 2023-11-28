@@ -1,6 +1,7 @@
-package org.example;
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
+package chat;
+
+import chat.model.ChatTransport;
+import chat.model.Message;
 
 import java.io.*;
 import java.lang.reflect.Type;

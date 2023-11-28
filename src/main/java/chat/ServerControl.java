@@ -1,4 +1,4 @@
-package org.example;
+package chat;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

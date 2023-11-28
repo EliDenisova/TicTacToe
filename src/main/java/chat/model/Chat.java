@@ -1,9 +1,11 @@
-package org.example;
+package chat.model;
+
+import lombok.Getter;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import lombok.Getter;
+
 @Getter
 public class Chat {
     private ArrayList<User> activeUsers;

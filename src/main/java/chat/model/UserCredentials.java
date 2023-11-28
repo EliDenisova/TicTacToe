@@ -1,4 +1,4 @@
-package org.example;
+package chat.model;
 
 public class UserCredentials {
     private final int userId;
@@ -9,3 +9,4 @@ public class UserCredentials {
         this.userPasswordHash = hashPassword;
     }
 }
+

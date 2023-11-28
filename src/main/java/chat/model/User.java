@@ -1,4 +1,4 @@
-package org.example;
+package chat.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -10,4 +10,3 @@ public class User {
     private String userLastName;
     private int userId;
 }
-

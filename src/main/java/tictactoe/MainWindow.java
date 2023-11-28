@@ -1,5 +1,4 @@
-package org.example;
-
+package tictactoe;
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
@@ -59,3 +58,4 @@ public class MainWindow extends JFrame {
         playgroundMap.startNewGame(mode, fSzX, fSzY, wLen);
     }
 }
+

@@ -1,4 +1,7 @@
-package org.example;
+package chat;
+
+import chat.model.User;
+import chat.model.UserCredentials;
 
 import javax.swing.*;
 import java.awt.*;
